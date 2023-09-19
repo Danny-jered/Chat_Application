@@ -81,6 +81,6 @@ Celà devrait ressembler au json suivant dans votre settings.json.
 
 ## Auteurs
 
-- Danny Jered
+- Danny Jered Okandze
 - David Adjele
 - Richard Tshimanga
