@@ -83,4 +83,4 @@ Celà devrait ressembler au json suivant dans votre settings.json.
 
 - Danny Jered
 - David Adjele
-- Richard
+- Richard Tshimanga
