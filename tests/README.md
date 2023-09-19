@@ -134,29 +134,3 @@ docker start ID
 docker container ls -a
 
 ```
-
-# Déploiement
-
-## Angular
-
-Construire la version production (avec environment.prod.ts)
-
-```
-ng build
-```
-
-```
-firebase deploy --only hosting
-```
-
-## Spring Boot
-
-Avec le jib plugin:
-
-```
-./mvnw compile jib:build
-```
-
-Voir le Artifact Registry.
-Voir Cloud Run (variable d'environnement)
-Voir Logging
