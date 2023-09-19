@@ -78,3 +78,9 @@ Celà devrait ressembler au json suivant dans votre settings.json.
 }
 
 ```
+
+## Auteurs
+
+- Danny Jered
+- David Adjele
+- Richard
